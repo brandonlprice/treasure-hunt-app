@@ -8,6 +8,9 @@
         "initCenter": [-40, 29]
     },
     {
+        "path": "heritage-sites"
+    },
+    {
         "title": "Famous Romances",
         "path": "famous-romances",
         "description": "You'll fall hard for this love-themed treasure hunt! It's like a dating app, but instead of swiping right, you zoom and pan!",

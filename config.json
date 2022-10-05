@@ -4,7 +4,7 @@
         "path": "proto-config",
         "description": "Let's put your trivial knowledge to the test",
         "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/survey123_0052b46a58d4452e99d8d86f225cc37b_stakeholder/FeatureServer/0",
-        "introImage": "./introImage.PNG",
+        "introImage": "./intro.PNG",
         "initCenter": [-118.247604, 34.058194],
         "homeZoom": 3,
         "minZoom": 2,

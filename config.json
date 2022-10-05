@@ -8,16 +8,6 @@
         "initCenter": [-40, 29]
     },
     {
-        "path": "lacountytrivia"
-    },
-      {
-        "title": "LA County Geo-Trivia",
-        "path": "lacountytrivia",
-        "description": "You'll fall hard for this love-themed treasure hunt! It's like a dating app, but instead of swiping right, you zoom and pan!",
-        "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/survey123_0052b46a58d4452e99d8d86f225cc37b_stakeholder/FeatureServer/0",
-        "introImage": "./Cleopatra_greets_Antony.jpg"
-    },
-    {
         "title": "Famous Romances",
         "path": "famous-romances",
         "description": "You'll fall hard for this love-themed treasure hunt! It's like a dating app, but instead of swiping right, you zoom and pan!",
